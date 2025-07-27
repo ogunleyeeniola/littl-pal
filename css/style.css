@@ -1,0 +1,35 @@
+*{
+    padding: 0px ;
+    margin: 0px ;
+    box-sizing: border-box ; 
+}
+
+ul{
+    list-style: none
+}
+
+.hero-section {
+    background: color #29282e;
+  padding: 0px 50px;  
+}
+
+.header  {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .left-side {
+    display: flex;
+    align-items: center;
+}
+
+.header .left-side img {
+    width: 130px;
+}
+
+.header .social-icons img {
+    width: 200px;
+}
+
+.header
