@@ -1,4 +1,4 @@
-*{
+ *{
     padding: 0px ;
     margin: 0px ;
     box-sizing: border-box ; 
@@ -9,7 +9,7 @@ ul{
 }
 
 .hero-section {
-    background: color #29282e;
+    background-color: #29282e;
   padding: 0px 50px;  
 }
 
@@ -28,13 +28,11 @@ ul{
     width: 130px;
 }
 
-
-
 .header .social-icons img {
-    width: 200px;
+    width: 20px;
 }
 
-.header .right-side {
+.header .left-side {
     display: flex;
     justify-content: space-between;
     align-items: center;
